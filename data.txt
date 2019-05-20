@@ -1,0 +1,3 @@
+Name: Alvaro Zájara
+Age: 38
+Favorite color: green
